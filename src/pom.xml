@@ -369,6 +369,12 @@
       <artifactId>jaxb-impl</artifactId>
       <scope>runtime</scope>
     </dependency>
+	<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>spring-context</artifactId>
+		<version>6.1.13</version>
+	</dependency>
     <dependency>
       <groupId>com.github.terma</groupId>
       <artifactId>javaniotcpproxy</artifactId>
